@@ -1,0 +1,8 @@
+console comands to get urbs startet
+
+Opend power Shell
+new tab with ubuntu
+cd urbs
+source ~/miniconda3/bin/activate
+conda activate urbs-env
+python runme.py
